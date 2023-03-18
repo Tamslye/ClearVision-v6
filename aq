@@ -1,5 +1,5 @@
 /**
- * @name aq
+ * @name 2
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -27,9 +27,9 @@
   --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
-  --background-grayscale: 17%;
+  --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 2px;
+  --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
@@ -56,8 +56,8 @@
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
-  --channel-unread: #32BF80;
-  --channel-color: rgb(40,121,165,1);
+  --channel-unread: #14BF96;
+  --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
   --online-color: #43b581;
   --idle-color: #faa61a;
@@ -88,9 +88,9 @@
   --rs-medium-spacing: 2px;
   --rs-large-spacing: 2px;
   --rs-small-width: 3px;
-  --rs-medium-width: 4px;
-  --rs-large-width: 3px;
-  --rs-avatar-shape: 38.5%;
+  --rs-medium-width: 4.5px;
+  --rs-large-width: 2.5px;
+  --rs-avatar-shape: 37.5%;
   --rs-online-color: #43b581;
   --rs-idle-color: #faa61a;
   --rs-dnd-color: #f04747;
@@ -100,5 +100,4 @@
 }
 
 /* Any custom CSS below here */
-
 
